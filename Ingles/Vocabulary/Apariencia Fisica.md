@@ -1,0 +1,8 @@
+- Fairl Short **muy bajito**
+- shot **Bajito**
+- Medium Height **Estatura Media**
+- Normal **Estatura Normal**
+- Tall **Alto**
+- Very tall **Muy alto**
+- Slim **Delgado**
+- Young **Joven**

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "31d9dab17aafb37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ddb0d8ac6f00c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bed2f560ee37fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReactJS/Teoria.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ec7eec601b476e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Comandos Basicos.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdf06c0bc71aa95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a351c56918f5fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98e5584dc26a1ad5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea7e28b82e33c301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "right": {
+    "id": "a2a80d3108cdeca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9cfa6fe81c6b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7dee71762a72704",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Comandos Basicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4881a784ea20608",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30aa0956d0fda8bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Laravel/Blade.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.3902282714844,
+    "collapsed": true
+  },
+  "active": "ec7eec601b476e3b",
+  "lastOpenFiles": [
+    "Git/Comandos.md",
+    "Git/Comandos Basicos.md",
+    "Hive/MyProyectoPrueba.md",
+    "Hive/Proyectos.md",
+    "Hive/Creacion de NFTs.md",
+    "Hive/Hive Engine Developer Portal/Index.md",
+    "Hive/Hive Engine Developer Portal/Actions - Tokens.md",
+    "Hive/Creacion de Token.md",
+    "Hive/Creacion de Token y NFTs.md",
+    "Hive/Documentacion.md"
+  ]
+}

@@ -1,0 +1,4 @@
+- Cuando uno valla a cuadro magico o encima inexplorada, respeten las zonas donde uno este haciendo porque uno que es de cp bajito llega el otro y se llevan todos los mobs que pudo haber matado, no esta encontra de compartir con otros aliados solo que si respeten y lleguen entre los involucrados un acuerdo para que esten los dos y a uno no le dejen pocos mobs para matar
+- Apoyo entre toda la alianza cuando viene algun clan enemigo atacarnos, sabemos que uno no puede estar 24/7 pero tampoco que dejen a uno completamente solos, ha pasado varias ocaciones que varios estan minando y llegan clanes enemigos a matarnos y como somos pocos los que no estan en afk no podemos hacerle mucho frente para defenderce en cambio si uno ataca a uno de clan enemigo pongamosle que lo mata uno pero en un ratito llegan muchos a defenderlo
+- Cuando uno vaya a minar que respeten porque vienen a robar o cuando uno quita el bot o jugador llega otro y se queda con la mena.
+- 

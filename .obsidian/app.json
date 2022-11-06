@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "attachmentFolderPath": "Hive/imagenes",
+  "newFileLocation": "folder",
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

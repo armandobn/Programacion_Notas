@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "31d9dab17aafb37a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc40a9e988447b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Amigurumi/fox.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdf06c0bc71aa95d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a351c56918f5fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98e5584dc26a1ad5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea7e28b82e33c301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "right": {
+    "id": "a2a80d3108cdeca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9cfa6fe81c6b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7dee71762a72704",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Amigurumi/fox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4881a784ea20608",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30aa0956d0fda8bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Laravel/Blade.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.3902282714844,
+    "collapsed": true
+  },
+  "active": "dcc40a9e988447b4",
+  "lastOpenFiles": [
+    "Hoja de Servicio/Tareas.md",
+    "Hoja de Servicio/Procedimiento Hoja de Servicio.md",
+    "Hoja de Servicio/Hoja de servicio.md",
+    "C.md",
+    "Levantar un server rapido.md",
+    "overthewire.md",
+    "Laravel/Compiling Assets (Mix).md",
+    "Laravel/ORM elocuente.md",
+    "JavaScript/Apuntes Clases.md",
+    "Laravel/Clonar Proyecto.md"
+  ]
+}
