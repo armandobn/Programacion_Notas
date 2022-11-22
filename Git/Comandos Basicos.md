@@ -86,3 +86,12 @@ u* git merge <nombre de la rama> : Unión de ramas.
 u  * Uniones automáticas ==> cuando hubo cambios en ciertos lugares pero que no afectan a la rama main(Master) o que no hay lineas entrelazadas.
 
 u  * Unión Manual ==> cuando git no puede hacerlo de forma autoamtica. Para ello ocupamos un commit nuevo llamado Merge commit.
+
+Para deshacer un `git add` antes de un commit,
+git reset HEAD
+
+La operativa de publicar una rama en remoto la haces mediante el comando `push`, indicando la opción "-u" y el nombre de la rama que deseas subir. Por ejemplo de esta manera:
+
+```git
+git push -u origin experimental
+```

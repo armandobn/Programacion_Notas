@@ -34,7 +34,7 @@ Algolia client
 SCOUT_DRIVER=database
 Configuracion de busqueda: Coloca en el archivo .env hasta abajo
 
-
+composer require algolia/algoliasearch-client-php
 
   public function generarSolicitud(Request $request)
     {
